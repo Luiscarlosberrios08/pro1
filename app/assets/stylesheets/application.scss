@@ -1,0 +1,26 @@
+// Import Bootstrap desde node_modules
+@import "bootstrap";
+
+// Puedes añadir tus estilos personalizados aquí, si deseas
+body {
+  background-color: #f8f9fa; // Ejemplo de estilo personalizado
+}
+
+/* Estilo personalizado para el botón de logout para que se vea como un enlace */
+.logout-link {
+  background-color: transparent; /* Sin fondo */
+  color: gray; /* Texto gris */
+  border: none; /* Sin borde */
+  padding: 0; /* Elimina el padding para parecerse a un enlace */
+  font-size: 1em;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.logout-link:hover {
+  color: rgb(17, 11, 11); /* Color más claro en hover */
+}
+
+.navbar .nav-link {
+  color: rgb(20, 14, 14); /* Asegura que los enlaces en la barra de navegación sean blancos */
+}
