@@ -10,7 +10,7 @@ gem "devise"
 # gem "image_processing", "~> 1.2" # Descomentar si necesitas variantes de imagen con Active Storage
 
 # Motor de plantillas SCSS y Bootstrap para el frontend
-gem "bootstrap-sass", "~> 3.3.5"
+gem "bootstrap-sass", "~> 3.4.1"
 gem "sassc-rails"
 
 # Manejo de JavaScript y frontend moderno
