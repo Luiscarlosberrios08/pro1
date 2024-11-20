@@ -37,7 +37,7 @@ gem "stimulus-rails" # Framework de JavaScript
 gem "jbuilder"
 
 # Manejo de archivos adjuntos (opcional)
-gem "paperclip", "~> 5.0.0"
+gem "paperclip", "~> 6.1.0"
 gem "aws-sdk-s3", "~> 1.0" # Para almacenamiento en S3 de Amazon
 
 # Zona horaria para sistemas Windows
