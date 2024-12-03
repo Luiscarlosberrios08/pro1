@@ -38,7 +38,7 @@ gem "jbuilder"
 
 # Manejo de archivos adjuntos (opcional)
 gem "paperclip", "~> 5.0.0"
-gem "aws-sdk-s3", "~> 1.0" # Para almacenamiento en S3 de Amazon
+gem "aws-sdk-s3", "~> 1.175" # Para almacenamiento en S3 de Amazon
 
 # Zona horaria para sistemas Windows
 gem "tzinfo-data", platforms: %i[ mswin mswin64 mingw x64_mingw jruby ]
