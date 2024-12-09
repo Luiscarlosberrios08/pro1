@@ -21,7 +21,7 @@ gem "jquery-rails"
 gem "sprockets-rails"
 
 # Base de datos
-gem "sqlite3", "~> 1.4"
+gem "sqlite3", "~> 2.4"
 
 # Servidor web para Rails
 gem "puma", ">= 5.0"
