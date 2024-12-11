@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Rails Framework
-gem "rails", "~> 7.2.1", ">= 7.2.1.2"
+gem "rails", "~> 7.2.2"
 
 # Autenticación de usuarios
 gem "devise"
